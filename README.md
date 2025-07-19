@@ -5,10 +5,6 @@
 <h1 align="center">Project Icarus</h1>
 
 <p align = 'justify'>
-In Greek mythology, Icarus flew too close to the sun — not out of foolishness, but out of ambition. While his wings melted, his daring spirit became a symbol of human aspiration and the unrelenting desire to break free of earthly bounds.
-<br>
-Project Icarus Prime embraces that same spirit — but with the wisdom of engineering, the discipline of code, and the fire of innovation. Born from a blank circuit board and a vision of flight, this drone is not just a machine; it’s a manifestation of calculated ambition.
-<br>
-Powered by a Teensy brain, sensing its world with gyroscopes and barometers, and roaring to life through GEPRC 4500kW motors, this drone is crafted to be more than a prototype. It’s a modular, rapidly manufacturable aerial platform, ready to adapt, evolve, and serve a spectrum of missions — from precision delivery to environmental sensing and beyond.
+Project Icarus dares to retell a legend — not as a tragedy, but as a triumph. In myth, Icarus soared on handcrafted wings, rising higher and higher until he fell. But what if he didn’t fall because he flew too high… but because he flew without direction? Today, we bring that story full circle. Born from the ground up with a custom-built drone, a Teensy-powered brain, precision sensors, and high-thrust motors, Project Icarus isn't just a flying machine — it's a leap toward solving one of the most critical challenges in aerial robotics: autonomous navigation that’s smart, adaptive, and reliable. It’s modular, manufacturable, and built for real-world chaos — not just labs and test fields. This isn’t just about flight anymore. It’s about purpose, precision, and rewriting the rules of how machines move through the skies. Because this time, Icarus doesn't crash — he calculates. And he lands exactly where he means to.
 <br>
 </p>
